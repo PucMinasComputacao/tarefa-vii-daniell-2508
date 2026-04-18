@@ -5,12 +5,14 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Daniell
+- Matricula:917809
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+## 📷 Execução
+
+![Resultado do Console](print_console.png)
 
 
 
